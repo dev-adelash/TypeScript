@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Ecommerce Fulfillment and Component Portal",
+    "folder": "typescript/ecommerce-fulfillment-and-component-portal-typescript",
+    "repository": "TypeScript",
+    "url": "https://github.com/dev-adelash/TypeScript/tree/main/typescript/ecommerce-fulfillment-and-component-portal-typescript",
+    "description": "Built NestJS workflow APIs with a React application component for stock reservations and fulfillment actions. Added runtime validation, idempotent requests, version checks and a retryable outbox fixture. Verified simultaneous reservation attempts, cancellation replay and relay failures with Node tests."
+  },
+  {
+    "title": "Financial Reconciliation and Approval Workbench",
+    "folder": "typescript/financial-reconciliation-and-approval-workbench-typescript",
+    "repository": "TypeScript",
+    "url": "https://github.com/dev-adelash/TypeScript/tree/main/typescript/financial-reconciliation-and-approval-workbench-typescript",
+    "description": "Implemented a NestJS and React application workbench for signed callbacks, exact payment matching and exception approval. Used integer-cent amounts, explicit reviewer roles and inspectable audit records. Tested conflicting event IDs, invalid signatures and approval races with TypeScript and Node tests."
+  },
+  {
+    "title": "Education Learning and Assessment Portal",
+    "folder": "typescript/education-learning-and-assessment-portal-typescript",
+    "repository": "TypeScript",
+    "url": "https://github.com/dev-adelash/TypeScript/tree/main/typescript/education-learning-and-assessment-portal-typescript",
+    "description": "Created NestJS assessment workflows with a React application component for submissions and instructor review. Kept scoring deterministic, validated deadlines and protected publication with role and version checks. Verified repeated submissions, unauthorized edits and stale approvals with Node tests."
+  }
+]
