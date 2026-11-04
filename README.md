@@ -32,4 +32,4 @@ Signed callback example from this folder: `pnpm exec tsx -e "const {Engine}=requ
 
 ## Portfolio
 
-[View this stack’s work](https://adelash.vercel.app/typescript) · [Email Adel Ash](mailto:adelash.work@gmail.com)
+[View this stack’s work](https://adelash.vercel.app/typescript) · [Email Adel Ash](mailto:tech.dev.workspace@gmail.com)
